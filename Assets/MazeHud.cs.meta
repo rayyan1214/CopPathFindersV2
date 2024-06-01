@@ -3,7 +3,13 @@ guid: b02eed031d6924a4b8698626d705b1ef
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - scoreTxt: {instanceID: 0}
+  - MoneyText: {instanceID: 0}
+  - TimerText: {instanceID: 0}
+  - healthText: {instanceID: 0}
+  - fpm: {instanceID: 0}
+  - audioClip: {fileID: 8300000, guid: 903628c1f0cae214897252604ee2a3d2, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
